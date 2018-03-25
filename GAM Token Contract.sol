@@ -179,7 +179,7 @@ contract AbstractToken is Token, SafeMath {
 contract GAMToken is AbstractToken {
   /**
    * Maximum allowed number of tokens in circulation.
-   *Total Supply for Pre ICO = (10% of 100000000 = 10000000)  and  ICO = (30% of 100000000 = 30000000) 
+   *Total Supply 100000000 GAM
    * 10^^10 is done for decimal places, this is standard practice as all ethers are actually wei in EVM
    */
    
